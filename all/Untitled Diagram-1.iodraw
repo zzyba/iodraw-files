@@ -150,6 +150,9 @@
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5-1H5vRvqMCivIhfZ7X-11" target="i5-1H5vRvqMCivIhfZ7X-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i5-1H5vRvqMCivIhfZ7X-11" target="i5-1H5vRvqMCivIhfZ7X-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-11" value="&lt;b&gt;应对/适应结果&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="720" width="120" height="50" as="geometry" />
         </mxCell>
@@ -172,7 +175,7 @@
           <mxGeometry x="520" y="408" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-25" value="路径③：面临威胁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="500" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="517" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
