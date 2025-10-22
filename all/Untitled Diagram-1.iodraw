@@ -113,6 +113,9 @@
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-6" value="应急预演模块：针对应急型情感工作，通过集体讨论典型危机场景与应对策略，帮助母亲构建认知与行动预案，增强其面对突发状况时的控制感与信心，减少未知恐惧带来的资源耗竭。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="205" y="326" width="400" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
