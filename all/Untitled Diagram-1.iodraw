@@ -96,22 +96,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="189" y="70" width="450" height="320" as="geometry" />
+          <mxGeometry x="180" y="90" width="450" height="320" as="geometry" />
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-2" value="技能赋能模块：针对工具型情感工作，通过行为管理、沟通技巧等培训，提升母亲应对日常照护挑战的效率，减少因方法不当造成的情绪消耗。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="214" y="120" width="400" height="50" as="geometry" />
+          <mxGeometry x="205" y="140" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-3" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;孤独症儿童母亲情感工作结构化同伴支持干预方案&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="279" y="90" width="280" height="30" as="geometry" />
+          <mxGeometry x="270" y="110" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-4" value="安全表达模块：针对保护型情感工作，通过创设保密、共情的团体氛围，为母亲提供一个能够卸下情绪伪装、表达脆弱与压力的安全空间，缓解其对外维持正常假象的情绪警戒。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="214" y="190" width="400" height="50" as="geometry" />
+          <mxGeometry x="205" y="210" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-5" value="共情支持模块：针对关怀型情感工作，通过引导同伴间的深度共情与经验共鸣，使母亲感受到被理解与支持，分担其在持续给予孩子情感关怀时所产生的孤独与付出感。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="214" y="260" width="400" height="50" as="geometry" />
+          <mxGeometry x="205" y="280" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-6" value="应急预演模块：针对应急型情感工作，通过集体讨论典型危机场景与应对策略，帮助母亲构建认知与行动预案，增强其面对突发状况时的控制感与信心，减少未知恐惧带来的资源耗竭。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="214" y="330" width="400" height="50" as="geometry" />
+          <mxGeometry x="205" y="350" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
