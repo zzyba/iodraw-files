@@ -193,8 +193,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i5-1H5vRvqMCivIhfZ7X-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i5-1H5vRvqMCivIhfZ7X-8" target="i5-1H5vRvqMCivIhfZ7X-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i5-1H5vRvqMCivIhfZ7X-8" target="i5-1H5vRvqMCivIhfZ7X-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="475" />
+              <mxPoint x="180" y="852" />
+              <mxPoint x="230" y="852" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
