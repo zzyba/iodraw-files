@@ -95,8 +95,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i5-1H5vRvqMCivIhfZ7X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-1" value="孤独症儿童母亲情感工作结构化同伴支持干预方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="406" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
