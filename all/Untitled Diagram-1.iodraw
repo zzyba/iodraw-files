@@ -96,7 +96,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="70" width="450" height="300" as="geometry" />
+          <mxGeometry x="100" y="70" width="450" height="320" as="geometry" />
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-2" value="技能赋能模块：针对工具型情感工作，通过行为管理、沟通技巧等培训，提升母亲应对日常照护挑战的效率，减少因方法不当造成的情绪消耗。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="125" y="120" width="400" height="50" as="geometry" />
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-5" value="共情支持模块：针对关怀型情感工作，通过引导同伴间的深度共情与经验共鸣，使母亲感受到被理解与支持，分担其在持续给予孩子情感关怀时所产生的孤独与付出感。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="125" y="260" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-6" value="共情支持模块：针对关怀型情感工作，通过引导同伴间的深度共情与经验共鸣，使母亲感受到被理解与支持，分担其在持续给予孩子情感关怀时所产生的孤独与付出感。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="125" y="330" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
