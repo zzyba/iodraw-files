@@ -1,0 +1,112 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17" pages="3">
+  <diagram name="第 1 页" id="OIYhakG12PUaDQuQhrvc">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-1" value="资源投资行为" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZMSm8qoFe2mlSdCz9Bxt-2" target="ZMSm8qoFe2mlSdCz9Bxt-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="185" />
+              <mxPoint x="210" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-2" value="个人资源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZMSm8qoFe2mlSdCz9Bxt-3" target="ZMSm8qoFe2mlSdCz9Bxt-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-3" value="资源威胁/损失" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="250" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZMSm8qoFe2mlSdCz9Bxt-4" target="ZMSm8qoFe2mlSdCz9Bxt-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-4" value="压力反应&lt;br&gt;（焦虑/退缩/防御)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZMSm8qoFe2mlSdCz9Bxt-5" target="ZMSm8qoFe2mlSdCz9Bxt-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZMSm8qoFe2mlSdCz9Bxt-5" target="ZMSm8qoFe2mlSdCz9Bxt-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-5" value="应对/适应结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZMSm8qoFe2mlSdCz9Bxt-6" target="ZMSm8qoFe2mlSdCz9Bxt-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="600" />
+              <mxPoint x="420" y="600" />
+              <mxPoint x="420" y="140" />
+              <mxPoint x="370" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-6" value="资源增益回路" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZMSm8qoFe2mlSdCz9Bxt-7" target="ZMSm8qoFe2mlSdCz9Bxt-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-7" value="资源损失螺旋" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="ZMSm8qoFe2mlSdCz9Bxt-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="120" as="sourcePoint" />
+            <mxPoint x="390" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZMSm8qoFe2mlSdCz9Bxt-2" target="ZMSm8qoFe2mlSdCz9Bxt-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="130" as="sourcePoint" />
+            <mxPoint x="350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-10" value="面临" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="335" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-14" value="应对成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="335" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-16" value="投资成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="140" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMSm8qoFe2mlSdCz9Bxt-18" value="应对失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="415" y="418" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xVuAiAFrHrPayLkXmIpe" name="Page-2">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9ptlsgo9X1GfK5M6YfOa" name="Page-3">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
