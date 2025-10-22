@@ -144,7 +144,7 @@
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5-1H5vRvqMCivIhfZ7X-10" target="i5-1H5vRvqMCivIhfZ7X-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i5-1H5vRvqMCivIhfZ7X-10" value="&lt;b&gt;压力反应:&lt;/b&gt;&lt;div&gt;亲职压力&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-10" value="&lt;b&gt;压力反应&lt;/b&gt;:&lt;div&gt;亲职压力&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="620" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5-1H5vRvqMCivIhfZ7X-11" target="i5-1H5vRvqMCivIhfZ7X-14">
