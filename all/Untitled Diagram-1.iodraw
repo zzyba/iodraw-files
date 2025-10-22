@@ -177,8 +177,8 @@
         <mxCell id="i5-1H5vRvqMCivIhfZ7X-25" value="路径③：面临威胁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="517" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i5-1H5vRvqMCivIhfZ7X-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="698" width="50" height="30" as="geometry" />
+        <mxCell id="i5-1H5vRvqMCivIhfZ7X-28" value="路径⑤：应对失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="713" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
